@@ -1,0 +1,27 @@
+_repo: Gleams-of-Sunshine--13-Optimistic-Poems_24605
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24605-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chant, Joseph Horatio
+    birthdate: 1837
+    deathdate: 1928
+    gutenberg_agent_id: '26613'
+    url: http://www.gutenberg.org/2009/agents/26613
+description: ''
+gutenberg_issued: '2008-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24605'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian poetry'
+- !lcsh 'Canadian poetry'
+- !lcc 'PS'
+title: "Gleams of Sunshine\r\nOptimistic Poems"
+url: http://www.gutenberg.org/ebooks/24605
